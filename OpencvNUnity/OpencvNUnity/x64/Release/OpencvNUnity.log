@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Source.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\OpencvNUnity\x64\Release\OpencvNUnity.lib and object D:\OpencvNUnity\x64\Release\OpencvNUnity.exp
+  Generating code
+  All 69 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpencvNUnity.vcxproj -> D:\OpencvNUnity\x64\Release\OpencvNUnity.dll
