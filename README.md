@@ -15,3 +15,5 @@ A virtual object is created in the 3D environment which takes the color of the d
 Module 2
 
 The camera shuts and the centeroid of the object is detected only using the accelerometer and gyroscope readings.
+
+Tools: Unity, C#, OpenCV, C++, Python
