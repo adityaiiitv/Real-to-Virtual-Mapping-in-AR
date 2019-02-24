@@ -2,7 +2,7 @@
 
 This application was made to understand how accelerometer and gyroscope readings can be used to detect an object in an augmented environment.
 
-Detecting a 2D real object and providing it's attributes to a virtual object. Created using Unity, C#, C++, OpenCV, Python
+Detected a 2D real object and provided it's attributes to a virtual object. Created using Unity, C#, C++, OpenCV, Python
 
 Module 0
 The device camera is caliberated and a camera calibration matrix is generated.
