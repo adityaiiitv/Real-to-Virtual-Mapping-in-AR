@@ -1,4 +1,5 @@
 ![](https://github.com/adityaiiitv/Real-to-Virtual-Mapping-in-AR/blob/master/be17dc91-8860-4a35-ab20-bb163307eca0.png)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="aditya-prakash-74039b14b"><a class="LI-simple-link" href='https://www.linkedin.com/in/aditya-prakash-74039b14b?trk=profile-badge'>Aditya Prakash - LinkedIn</a></div>
 # Real-to-Virtual-Mapping-in-AR
 
 This application was made to understand how accelerometer and gyroscope readings can be used to detect an object in an augmented environment.
